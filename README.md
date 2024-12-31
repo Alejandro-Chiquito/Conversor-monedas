@@ -50,7 +50,8 @@ Si elegiste que no deseas continuar se mostrará el siguiente mensaje y terminar
 ![Mensaje de finalización del programa](https://github.com/user-attachments/assets/b8400ed6-5e90-46be-bb7e-fb52518828f6)
 
 ## Instalación
-     1. Clona este repositorio.
+     1. Clona este repositorio:
+     git clone https://github.com/Alejandro-Chiquito/conversor-monedas.git
      
      2. Dentro de la carpeta "conversor-monedas" crea un archivo .properties llamado "config.properties".
      
@@ -59,5 +60,5 @@ Si elegiste que no deseas continuar se mostrará el siguiente mensaje y terminar
 
 ## Tecnologías utilizadas
 Java 17  
-JOptionPane como interfaz gráfica  
+JOptionPane como menú gráfico 
 API de [ExchangeRate-API](https://www.exchangerate-api.com/) para convertir la monedas.  
