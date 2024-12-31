@@ -14,3 +14,5 @@ config.properties
 /src/Lib/
 # .iml
 conversor-monedas.iml
+# out
+/out/
