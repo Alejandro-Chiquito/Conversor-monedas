@@ -11,8 +11,6 @@ config.properties
 # vs code
 .vscode/
 # Lib package
-/src/Lib/
+/Lib/
 # .iml
 conversor-monedas.iml
-# out
-/out/
