@@ -44,7 +44,7 @@ El convertidor de moneda debe:
 6. Elige si deseas continuar  
    ![Menu para elegir si continuar](https://github.com/user-attachments/assets/fe25f120-7346-43ea-8215-ee61c0d6c4fa)
 
-Si elegiste que si deseas continuar, el proceso se repetira. podras cambiar la divisa base, la divisa objetivo y también la cantidad de dinero.  
+Si elegiste que si deseas continuar, el proceso se repetira. podrás cambiar la divisa base, la divisa objetivo y también la cantidad de dinero.  
 
 Si elegiste que no deseas continuar se mostrará el siguiente mensaje y terminará la ejecución del programa:  
 ![Mensaje de finalización del programa](https://github.com/user-attachments/assets/b8400ed6-5e90-46be-bb7e-fb52518828f6)
@@ -60,5 +60,5 @@ Si elegiste que no deseas continuar se mostrará el siguiente mensaje y terminar
 
 ## Tecnologías utilizadas
 Java 17  
-JOptionPane como menú gráfico 
+JOptionPane como menú gráfico       
 API de [ExchangeRate-API](https://www.exchangerate-api.com/) para convertir la monedas.  
