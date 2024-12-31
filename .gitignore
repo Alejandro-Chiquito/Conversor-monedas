@@ -15,4 +15,4 @@ config.properties
 # .iml
 conversor-monedas.iml
 # out
-/out
+/out/production/conversor-monedas/
